@@ -1,2 +1,2 @@
 # CppSockets
-Sockets lightweight library for C++
+Windows sockets lightweight library for C++
