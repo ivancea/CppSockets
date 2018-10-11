@@ -1,2 +1,2 @@
 # CppSockets
-Windows sockets lightweight library for C++
+Windows sockets, http and IRC lightweight library for C++
