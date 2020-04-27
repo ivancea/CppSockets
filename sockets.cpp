@@ -68,6 +68,7 @@ string getIp(SOCKET s){
     if(getpeername(s,&sa,&n)!=SOCKET_ERROR){
         return sa.sa_data;
     }
+    return "";
 }
 
 /**   TCPCLIENT   **/
